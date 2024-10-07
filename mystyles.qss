@@ -1,0 +1,10 @@
+QMainWindow{
+    background-color: black;
+}
+QPushButton {
+    background-color: #333333;
+    border-radius: 50%;
+}
+QPlainTextEdit{
+    font-size: 64px;
+}
